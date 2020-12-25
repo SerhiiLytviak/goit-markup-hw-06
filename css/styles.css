@@ -731,7 +731,7 @@ img {
 .modal-form-checkbox:checked + .modal-form-policy-text::before {
   background-color: var(--accent-color);
   border-color: var(--accent-color);
-  background-image: url(/images/icon-check.svg);
+  background-image: url(./images/icon-check.svg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
